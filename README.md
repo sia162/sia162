@@ -51,8 +51,7 @@ class About extends Me {
  
 
 ### ⚡ Recent GitHub Activity~
-<!-- https://github.com/sia162/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=sia162&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+[![Siya's github activity graph](https://activity-graph.herokuapp.com/graph?username=sia162&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🔗 How to reach me~
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hexcodesiya)       [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siyabanodha162/)  <a target="_blank" href="mailto:siyabanodha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
