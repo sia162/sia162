@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning data structure.
 - 🤔 I’m looking for help with open source.
 - 😄 Pronouns: she/her
+- 👩‍💻 https://www.npmjs.com/~sia162
 
 ### 🛠 Technologies and tools i use~
 ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
