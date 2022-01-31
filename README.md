@@ -1,6 +1,8 @@
 
 ## Hey there, I'm Siya! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
+building life on codes~
+
 - 🌱 I’m currently learning data structure.
 - 🤔 I’m looking for help with open source.
 - 😄 Pronouns: she/her
