@@ -3,7 +3,7 @@
 
 building life on codes~
 
-- 🌱 I’m currently learning data structure.
+- 🌱 I’m currently learning data structure and react-native
 - 🤔 I’m looking for help with open source.
 - 😄 Pronouns: she/her
 - 👩‍💻 https://www.npmjs.com/~sia162
