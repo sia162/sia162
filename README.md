@@ -8,6 +8,10 @@ building life on codes~
 - 😄 Pronouns: she/her
 - 👩‍💻 https://www.npmjs.com/~sia162
 
+### 🔗 How to reach me~
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siyabanodha162/)  <a target="_blank" href="mailto:siyabanodha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+
+
 ### 🛠 Technologies and tools i use~
 ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -57,13 +61,8 @@ class About extends Me {
 [![Siya's github activity graph](https://activity-graph.herokuapp.com/graph?username=sia162&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h4 align="center"><samp>~coding my way through life or else usually reading novels, listening to audiobooks or songs </samp></h4>
-<p align="center"><img height="400" src="https://monophy.com/media/Qs7WbYem6RDksHxd1l/monophy.gif" /></p>
+<p align="center"><img height="200" src="https://monophy.com/media/Qs7WbYem6RDksHxd1l/monophy.gif" /></p>
 
 
 <hr></hr>
 profile inspiration: https://github.com/abhisheknaiidu/awesome-github-profile-readme#badges-
-
-
-### 🔗 How to reach me~
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hexcodesiya)       [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siyabanodha162/)  <a target="_blank" href="mailto:siyabanodha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-
