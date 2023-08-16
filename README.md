@@ -56,9 +56,6 @@ class About extends Me {
   </a> -->
  
 
-### ⚡ Recent GitHub Activity~
-[![Siya's github activity graph](https://activity-graph.herokuapp.com/graph?username=sia162&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <h4 align="center"><samp>~coding my way through life or else usually reading novels, listening to audiobooks or songs </samp></h4>
 <p align="center"><img height="200" src="https://monophy.com/media/Qs7WbYem6RDksHxd1l/monophy.gif" /></p>
 
