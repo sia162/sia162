@@ -3,7 +3,6 @@
 
 building life on codes~
 
-- 🌱 I’m currently learning data structure.
 - 😄 Pronouns: she/her
 - 👩‍💻 https://www.npmjs.com/~sia162
 
