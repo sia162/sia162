@@ -2,7 +2,7 @@
 hi, i'm Siya Banodha, a passionate self-taught full stack web developer from india. building life on codes~
 
 - 😄 Pronouns: she/her
-- 💼 any freelance work? do reach, [email](mailto: siyabanodha@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:siyabanodha@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 ### 🛠 Technologies and tools i use:
