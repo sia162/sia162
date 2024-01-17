@@ -1,10 +1,9 @@
 
-## Hey there, I'm Siya! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" height="50">
-
-building life on codes~
+hi, i'm Siya Banodha, a passionate self-taught full stack web developer from india. building life on codes~
 
 - 😄 Pronouns: she/her
-- 👩‍💻 https://www.npmjs.com/~sia162
+- 💼 any freelance work? do reach, [email](mailto: siyabanodha@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
 
 ### 🛠 Technologies and tools i use:
 ```dart 
