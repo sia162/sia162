@@ -21,6 +21,3 @@ class About extends Me {
   };
 }
 ```
-
-<hr></hr>
-profile inspiration: https://github.com/abhisheknaiidu/awesome-github-profile-readme#badges-
