@@ -2,7 +2,7 @@
 a passionate self-taught full stack web developer from india. building life on codes. 
 
 - 😄 Pronouns: she/her
-- 💼 any freelance work? do reach, [email](mailto:siyabanodha@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:siyabanodha@gmail.com) (:
 - 💬 ask me about anything, i am happy to help;
 
 ### 🛠 Technologies and tools i use:
@@ -11,7 +11,7 @@ a passionate self-taught full stack web developer from india. building life on c
 class About extends Me { 
   const myTools = {  
     "ProgramingLanguages" : { "C++", "Javascript" ,"C", "Python" },
-    "OtherTechStacks" : { "React", "Expressjs","Nodejs","Bootstrap" },
+    "OtherTechStacks" : { "React", "Expressjs", "Nodejs" },
     "OtherLanguages" : { "HTML", "CSS" , "SQL" },
     "Database" : { "MongoDB" },
     "Editors" : { "Vscode", "Sublime" },
