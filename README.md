@@ -1,5 +1,5 @@
-
-hi, i'm Siya Banodha, a passionate self-taught full stack web developer from india. building life on codes~
+# hi, <img src="https://github.com/sia162/sia162/blob/main/giphy.gif" width="40"> i'm Siya Banodha
+a passionate self-taught full stack web developer from india. building life on codes. 
 
 - 😄 Pronouns: she/her
 - 💼 any freelance work? do reach, [email](mailto:siyabanodha@gmail.com) :)
@@ -21,7 +21,12 @@ class About extends Me {
 }
 ```
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wzkpih2ypb3jdgfggphsydrzsu&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31wzkpih2ypb3jdgfggphsydrzsu&redirect=true)
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31wzkpih2ypb3jdgfggphsydrzsu&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31wzkpih2ypb3jdgfggphsydrzsu&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" align="center">
+  </a>
+</div>
+
 
 
 <p align="center">
