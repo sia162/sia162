@@ -12,7 +12,7 @@ class About extends Me {
   const myTools = {  
     "ProgramingLanguages" : { "C++", "Javascript" ,"C", "Python" },
     "OtherTechStacks" : { "React", "Expressjs","Nodejs","Bootstrap" },
-    "OtherLanguages" : { "HTML", "CSS" "Json", "Markdown" },
+    "OtherLanguages" : { "HTML", "CSS" , "SQL" },
     "Database" : { "MongoDB" },
     "Editors" : { "Vscode", "Sublime" },
     "Platforms" : { "Windows" },
