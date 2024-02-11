@@ -1,13 +1,15 @@
 # hi, <img src="https://github.com/sia162/sia162/blob/main/giphy.gif" width="40"> i'm Siya Banodha
 a passionate self-taught full stack web developer from india. building life on codes. 
 
-- 😄 Pronouns: she/her
+- 👾 fifth year undergrad at IIIT Gwalior, Madhya Pradesh;
 - 💼 any freelance work? do reach, [email](mailto:siyabanodha@gmail.com) (:
 - 💬 ask me about anything, i am happy to help;
-
-### 🛠 Technologies and tools i use:
+- 💻 improving upon my backend skills;
+- 🕸️ lowercase is louder in subtlety;
+  
+### 🛠 Technologies and tools i use: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 ```dart 
-// tools_I_use organized
+// tools i use organized
 class About extends Me { 
   const myTools = {  
     "ProgramingLanguages" : { "C++", "Javascript" ,"C", "Python" },
