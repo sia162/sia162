@@ -1,9 +1,9 @@
 
 # hi, <img src="https://github.com/sia162/sia162/blob/main/giphy.gif" width="40"> i'm Siya Banodha
 
-```dart 
-<img align="right" alt="GIF" src="https://github.com/sia162/sia162/blob/main/tictac.gif" width="220"/>
-```
+<!--- <img align="right" alt="GIF" src="https://github.com/sia162/sia162/blob/main/tictac.gif" width="220"/> ---> 
+
+
 
 a passionate self-taught full stack web developer from india. building life on codes. 
 
