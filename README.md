@@ -11,7 +11,6 @@ a passionate self-taught full stack web developer from india. building life on c
 - 👾 fifth year undergrad at IIIT Gwalior, Madhya Pradesh;
 - 💼 any freelance work? do reach, [email](mailto:siyabanodha@gmail.com) (:
 - 💬 ask me about anything, i am happy to help;
-- 💻 improving upon my backend skills;
 - 🕸️ lowercase is louder in subtlety;
   
 ### 🛠 Technologies and tools i use: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
